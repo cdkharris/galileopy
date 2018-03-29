@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name='galileopy',
       version='0.1',
@@ -7,5 +7,6 @@ setup(name='galileopy',
       author='Camilla D. K. Harris',
       author_email='cdha@umich.edu',
       license='MIT',
-      packages=['galileopy'],
+      packages=find_packages(),
+      python_requires='>=3',
       zip_safe=False)
