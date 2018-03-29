@@ -1,0 +1,16 @@
+* galileopy
+(forthcoming!) A package for downloading, reading, and summary-plotting data from the Galileo Orbiter mission via NASA PDS.
+
+** About Galileo and my personal interest in the mission.
+Galileo Orbiter was launched in 1989.
+After about 2 years en route to Jupiter the high gain antenna malfunctioned, severely limiting the amount of data the spacecraft could return to scientists on Earth.
+Despite this setback, Galileo went on to make possible some of the most exciting discoveries in planetary science.
+My particular interest is in Galileo's contributions to our understanding of Europa, it's subsurface ocean, and its interaction with Jupiter's magnetosphere.
+
+** Examples
+
+*** Download a dataset
+
+*** Handle data with pandas
+
+*** Load a summary plot
